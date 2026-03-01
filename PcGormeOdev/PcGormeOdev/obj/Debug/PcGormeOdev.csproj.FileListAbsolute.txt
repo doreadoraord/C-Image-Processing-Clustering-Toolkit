@@ -1,0 +1,14 @@
+C:\Users\BORAN DORA\source\repos\PcGormeOdev\PcGormeOdev\obj\Debug\MainWindow.baml
+C:\Users\BORAN DORA\source\repos\PcGormeOdev\PcGormeOdev\obj\Debug\MainWindow.g.cs
+C:\Users\BORAN DORA\source\repos\PcGormeOdev\PcGormeOdev\obj\Debug\App.g.cs
+C:\Users\BORAN DORA\source\repos\PcGormeOdev\PcGormeOdev\obj\Debug\PcGormeOdev_MarkupCompile.cache
+C:\Users\BORAN DORA\source\repos\PcGormeOdev\PcGormeOdev\obj\Debug\PcGormeOdev.g.resources
+C:\Users\BORAN DORA\source\repos\PcGormeOdev\PcGormeOdev\obj\Debug\PcGormeOdev.Properties.Resources.resources
+C:\Users\BORAN DORA\source\repos\PcGormeOdev\PcGormeOdev\obj\Debug\PcGormeOdev.csproj.GenerateResource.cache
+C:\Users\BORAN DORA\source\repos\PcGormeOdev\PcGormeOdev\obj\Debug\PcGormeOdev.csproj.CoreCompileInputs.cache
+C:\Users\BORAN DORA\source\repos\PcGormeOdev\PcGormeOdev\bin\Debug\PcGormeOdev.exe.config
+C:\Users\BORAN DORA\source\repos\PcGormeOdev\PcGormeOdev\bin\Debug\PcGormeOdev.exe
+C:\Users\BORAN DORA\source\repos\PcGormeOdev\PcGormeOdev\bin\Debug\PcGormeOdev.pdb
+C:\Users\BORAN DORA\source\repos\PcGormeOdev\PcGormeOdev\obj\Debug\PcGormeOdev.exe
+C:\Users\BORAN DORA\source\repos\PcGormeOdev\PcGormeOdev\obj\Debug\PcGormeOdev.pdb
+C:\Users\BORAN DORA\source\repos\PcGormeOdev\PcGormeOdev\obj\Debug\PcGormeOdev.csproj.AssemblyReference.cache
